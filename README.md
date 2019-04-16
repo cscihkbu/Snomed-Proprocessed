@@ -29,5 +29,10 @@ Each row is a triplet that connect entities from Snomed-
 each row map a Snomed_Entity_ID or Relationship_ID to name- 
 
 	(Snomed_Entity_ID or Relationship_ID)  Name
+	
+#### Raw 
+
+The raw folder contains the original Snomed data files downloaded from https://utslogin.nlm.nih.gov/.
+sct2_Description_Full-en_INT_20180731.txt describes  Snomed concepts(entities, relationships) such as their Snomed id and names.sct2_Relationship_Full_INT_20180731.txt contains those relation triplets in the Snomed.
 
 
